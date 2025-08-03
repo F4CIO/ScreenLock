@@ -3,6 +3,8 @@ Transparent screen saver with password
 
 F4CIO.ScreenLock is a transparent screen lock for Windows. When you step away from your computer, it automatically locks your keyboard and mouse, ensuring your privacy. However, you can still see everything happening on your screen, like movies, your company advertisement, or long processing tasks. This feature is known as "kiosk" mode, allowing you to keep an eye on your activities while keeping your computer secure.
 
+See screenshoots at official page: http://www.f4cio.com/screenlock
+
 ## Features
 - Customizable screen lock message and timeouts (idle, dim, and lock)
 - Supports power actions like Standby, Hibernate, Shutdown, Reboot, etc. 
