@@ -36,9 +36,12 @@ See more screenshoots at official page: http://www.f4cio.com/screenlock
 - OTHER ISSUES --> SEE .LOG FILE: software creates and starts writing to .log file immediately on run . Log file is beside .exe file. It can help you see if there is any error or track down other issues.
 - OTHER ISSUES --> SEE WINDOWS EVENT LOG: in your start menu type eventvwr.exe and in Event Viewer go to WindowsLogs>Applications. Search for any error especially mentioning .NET.
 
+Need something else? Suggest / vote for new feature in comments at http://www.f4cio.com/screenlock. Report bugs on Git page https://github.com/F4CIO/ScreenLock/issues. I will try to address it especially if several people need same.
+
 ## License
 License Summary:
 - Free for personal and commercial use
 - You can freely distribute this software
 - Author is not responsible for any damage it may cause
+For full license details go to [license](http://www.f4cio.com/proprietary-software-license). For privacy policy go [privacy policy](http://www.f4cio.com/screenlock-privacy-policy)
 
